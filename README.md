@@ -20,3 +20,6 @@ while 문 break continue <br>
 
 <h3>2023-10-18<br></h3>
 list <br>
+
+<h3>2023-11-01<br></h3>
+튜플 <br>
