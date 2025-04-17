@@ -3,6 +3,21 @@
 Python 기초 문법부터 데이터 처리 라이브러리인 Pandas까지, 수업에서 실습한 내용을 정리한 학습 로그입니다.  
 매 수업마다 어떤 개념을 배우고, 어떤 실습을 했는지 날짜별로 정리했습니다.
 
+<div align="left">
+    <h1>💻 학습자</h1>
+    <table>
+        <tr>
+            <td align="center"><img src="https://github.com/user-attachments/assets/61049fd5-5e06-4b17-bb51-d925ea3e68dc" width="250"></td>
+        </tr>
+        <tr>
+            <td align="center"><b>김명규</b></td>
+        </tr>
+        <tr>
+            <td align="center"><b>https://github.com/kuma2156</b></td>
+        </tr>
+    </table>
+</div>
+
 ---
 
 ## 🗓️ 학습 일지 요약
