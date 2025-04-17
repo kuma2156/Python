@@ -73,7 +73,7 @@ Python 기초 문법부터 데이터 처리 라이브러리인 Pandas까지, 수
 ├── 📁ch10_set_dict/           - 11월 8일 집합 & 딕셔너리 실습
 ├── 📁ch11_string/             - 11월 15일 문자열 실습
 ├── 📁pandas_1206/             - 12월 6일 Pandas 실습 (📄1206_판다스_김명규.ipynb)
-├── 📄README.md                - 전체 학습 내용 요약 정리
+├── 📄README.md                
 ```
 
 
